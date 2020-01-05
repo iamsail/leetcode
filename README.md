@@ -8,5 +8,6 @@ goodbye 福报
 | 26 | 删除排序数组中的重复项 | https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/| 数组 双指针 | 简单 |  |
 | 27 | 移除元素 | https://leetcode-cn.com/problems/remove-element/| 数组 双指针 | 简单 |  |
 | 100 | 相同的树 | https://leetcode-cn.com/problems/same-tree/| 树 | 简单 |  | 
+| 485 | 最大连续1的个数 | https://leetcode-cn.com/problems/max-consecutive-ones/| 数组 | 简单 |  | 
 
 # 题解
