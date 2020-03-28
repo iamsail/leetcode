@@ -16,5 +16,6 @@ goodbye 福报
 | 485 | 最大连续1的个数 | https://leetcode-cn.com/problems/max-consecutive-ones/| 数组 | 简单 |  | 
 | 1004 | 最大连续1的个数III | https://leetcode-cn.com/problems/max-consecutive-ones-iii/| 双指针 滑动窗口 | 中等 |  | 
 | 191 | 位1的个数 | https://leetcode-cn.com/problems/number-of-1-bits/| 位运算 | 简单 |  http://www.sail.name/2020/03/21/leetcode-191/, https://zhuanlan.zhihu.com/p/115260732 | 
+| 338 | 比特位计数 | https://leetcode-cn.com/problems/counting-bits/| 位运算，动态规划 | 中等 |  http://www.sail.name/2020/03/22/leetcode-338/, https://zhuanlan.zhihu.com/p/115258977 | 
 
 
