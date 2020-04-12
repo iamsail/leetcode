@@ -9,6 +9,7 @@ goodbye 福报
 | 7 | 整数反转 | https://leetcode-cn.com/problems/reverse-integer/ | 数学 | 简单 |  |
 | 26 | 删除排序数组中的重复项 | https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/| 数组 双指针 | 简单 |  |
 | 27 | 移除元素 | https://leetcode-cn.com/problems/remove-element/| 数组 双指针 | 简单 |  |
+| 69 | x的平方根 | https://leetcode-cn.com/problems/sqrtx/ | 数学 二分查找 | 简单 |  | 
 | 80 | 删除排序数组的重复项II | https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/| 数组 双指针 | 中等 |  | 
 | 92 | 反转链表 II | https://leetcode-cn.com/problems/reverse-linked-list-ii/ | 链表 | 中等 |  | 
 | 100 | 相同的树 | https://leetcode-cn.com/problems/same-tree/| 树 | 简单 |  | 
